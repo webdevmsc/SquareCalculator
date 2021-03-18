@@ -1,0 +1,8 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/SquareCalculator.Tests/Properties/
+/SquareCalculator.Tests/Properties/AssemblyInfo.cs
+/SquareCalculator/Properties/
